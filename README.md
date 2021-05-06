@@ -1,3 +1,3 @@
 # GenerateFakeDataset
 
-https://asciigenerator.herokuapp.com/
+https://fakedatasetgenerator.herokuapp.com/
